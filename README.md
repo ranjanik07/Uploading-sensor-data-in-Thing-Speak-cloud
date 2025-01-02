@@ -71,10 +71,15 @@ Automatically act on your data and communicate using third-party services like T
 
 
 # PROGRAM:
+![exp 3 iot](https://github.com/user-attachments/assets/43a272bf-07c1-49f3-8ba6-77efee007394)
+
 
 # CIRCUIT DIAGRAM:
+![exp 3 cir](https://github.com/user-attachments/assets/aa535787-38d5-48f0-add1-6d0dce9a7744)
 
 # OUTPUT:
+
+![exp 3 output](https://github.com/user-attachments/assets/28554aa0-516a-41cc-b5b1-99c032c3e130)
 
 # RESULT:
 
